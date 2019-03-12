@@ -1,3 +1,7 @@
+ankit
+
+
+
 git init-
 local git repository will be created
 
@@ -22,6 +26,7 @@ master is the branch name
 
 make a folder
 make a file and do all the process
+
 
 make a new file
 
