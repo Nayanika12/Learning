@@ -1,0 +1,32 @@
+git init-
+local git repository will be created
+
+git add-
+to add any file
+example: git add feature/nayanika.feature
+
+git add .  
+git add --all
+
+used for all staged files(files not added in git)
+to add all the files
+
+git commit -m "message"
+used for commit code
+
+git remote add origin https://github.com/Nayanika12/Learning.git
+to link local to remote repository
+
+git push -u origin master
+master is the branch name
+
+make a folder
+make a file and do all the process
+
+make a new file
+
+make changes in any file and do the same process
+
+
+to access project from another git to local:
+git clone https://github.com/Nayanika12/Learning.git
